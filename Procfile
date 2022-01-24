@@ -1,1 +1,1 @@
-web: eval  index.html
+web: index.html
