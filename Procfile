@@ -1,1 +1,1 @@
-web:HTML index.html
+index.html
