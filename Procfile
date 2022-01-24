@@ -1,1 +1,1 @@
-web: lein run -m index.html $PORT
+web: eval  index.html
