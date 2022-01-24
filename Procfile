@@ -1,1 +1,1 @@
-worker: index.html
+web: lein run -m index.html $PORT
