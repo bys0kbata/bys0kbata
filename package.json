@@ -8,6 +8,7 @@
     "node": "16.x",
     "npm": "8.1.2",
     "HTML" : "HTML 5",
-    "CSS": "CSS3"
+    "CSS": "CSS3";
+    "python" : "3.10.x"
   }
 }
